@@ -1,2 +1,1 @@
-# PREP-CO
-repositorio de prueba modulo 2 prep course de soy henry
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
